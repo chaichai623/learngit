@@ -7,3 +7,5 @@ demo2（）
 
 demo4（）
     pass
+demo5()
+    pass
